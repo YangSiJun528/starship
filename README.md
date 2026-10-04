@@ -51,6 +51,10 @@
   ><img height="20" src="https://raw.githubusercontent.com/starship/starship/main/media/flag-jp.png" alt="日本語" /></a>
   &nbsp;
   <a
+    href="https://github.com/starship/starship/blob/main/docs/ko-KR/guide/README.md"
+  ><img height="20" src="media/flag-kr.svg" alt="한국어" /></a>
+  &nbsp;
+  <a
     href="https://github.com/starship/starship/blob/main/docs/pt-BR/guide/README.md"
   ><img height="20" src="https://raw.githubusercontent.com/starship/starship/main/media/flag-br.png" alt="Português do Brasil" /></a>
   &nbsp;
